@@ -1,0 +1,28 @@
+/*  for all elements */
+* {
+    box-sizing: border-box;
+    border:0;
+    margin: 0;
+}
+/* Styling for navigation */
+.nav-css {
+    background-color: #999999;
+    border: 2px solid;
+}
+/* Styling for items */
+.item {
+    border: 2px solid;
+    padding: 20px;
+    background-color: #999999;
+    margin-bottom: 10px;   
+    text-align: justify;  
+}
+body{
+    font-family: Georgia sans-serif;    
+}
+/* Styling for menu titles */
+.menu-title {
+  
+    font-weight: bold;
+} 
+
